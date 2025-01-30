@@ -1,3 +1,9 @@
+/*program to calculate discount
+ * Author: Gregory Kimani
+ * Reg No: CT101/G/19915/23
+ * Date: 30th January 2025
+ */
+
 import java.util.Scanner;
 
 public class CalcDiscount {

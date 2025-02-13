@@ -1,4 +1,4 @@
-public class InheritancTwo {
+public class InheritanceTwo {
 
     public class Vehicle {
         protected String brand;

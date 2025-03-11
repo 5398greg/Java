@@ -1,8 +1,9 @@
-/* program to show encapsulation
+/*program to show encapsulation
  * Author: Gregory Kimani
  * Reg No: CT101/G/19915/23
- * Date: 9th March 2025
+ * Date: 11th March 2025
  */
+
 import java.util.Scanner; // Import the Scanner class for user input
 
 // Define the BankAccount class

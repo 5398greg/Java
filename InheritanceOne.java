@@ -1,4 +1,8 @@
-import java.util.Scanner; // Import the Scanner class for user input
+/*program to show inheritance
+ * Author: Gregory Kimani
+ * Reg No: CT101/G/19915/23
+ * Date: 13rd February 2025
+ */
 
 public class InheritanceOne {
 
